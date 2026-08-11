@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hosseinoff.github.io/Novix/sitemap.xml
